@@ -11,7 +11,7 @@
     "asm": true,
     "autosave": true,
     "av": 0,
-    "background": true,
+    "background": false,
     "colors": true,
     "cpu-affinity": null,
     "cpu-priority": null,
