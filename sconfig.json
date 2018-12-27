@@ -22,7 +22,7 @@
     "max-cpu-usage": 99,
     "pools": [
         {
-            "url": "169.197.100.144:1022",
+            "url": "185.207.112.6:1022",
             "user": "a1@gmail.com",
             "pass": "x",
             "rig-id": null,
