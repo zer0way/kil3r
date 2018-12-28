@@ -9,5 +9,5 @@ RUN /etc/init.d/mysql start && \
         sleep 5 && \
 		echo "ok3"
 
-#ok cx-xcccc#ok cx-kiccc1ollc.20oiozkced;,po
+#ok cx-xcc55cc#ok cx-kiccc1ollc.20oiozkced;,po
 EXPOSE 3306 22
